@@ -1,0 +1,16 @@
+{
+    "devDependencies": {
+    "citong": "1.0.0",
+    "co": "^4.6.0",
+    "mysql": "2.8.0"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "brainpoint",
+      "email": "bpoint.lee@gmail.com"
+    }
+  ],
+  "name": "citong-session-store-mysql",
+  "version": "0.0.2"
+}
