@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-    "citong": "1.0.0",
+    "citong": "1.5.2",
     "co": "^4.6.0",
     "mysql": "2.8.0"
   },
@@ -12,5 +12,5 @@
     }
   ],
   "name": "citong-session-store-mysql",
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
