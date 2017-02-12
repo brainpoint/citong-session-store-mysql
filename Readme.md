@@ -11,6 +11,7 @@ app.use(session({
       user              : '',
       password          : '',
       database          : '',
+      tablename         : '',  // store session tablename, default is '_mysql_session_store'
     }),
     cookie: {
       path: '/',
